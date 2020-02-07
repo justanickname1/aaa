@@ -1,0 +1,33 @@
+.block1{
+	width: auto;
+	height: 650px;
+	background-image: url(images/pi.jpg);
+}
+.logo{
+	width: 650px;
+	height: 223px;
+	background-image: url(images/logo2.png);
+	position: relative;
+	left: 35%;
+	right: 35%;
+	top: -450px;
+}
+.album{
+	background-image: url(images/stranger.jpg);
+	width: 300px;
+	background-size: contain;
+	height: 300px;
+	position: relative;
+	left: 25%;
+}
+.albumname{
+	position: relative;
+	left: 45%;
+	font-style: bold;
+	font-size: 36pt;
+	top: -175px;
+}
+iframe{
+	position: relative;
+	left: 35%;
+}
